@@ -112,8 +112,8 @@ You can also follow our updates and projects here on GitHub.
 
 ## 📫 Contact
 
-📍 University Campus Bio-Medico of Rome  
-Via Álvaro del Portillo, 21 — 00128 Rome, Italy  
+[📍 University Campus Bio-Medico of Rome  
+Via Álvaro del Portillo, 21 — 00128 Rome, Italy](https://maps.app.goo.gl/ucpzK9S8K9vNYRwg9)
 
 ✉️ **Email:** nextlabrome@gmail.com  
 🌍 **Website:** [nextlabrome.wordpress.com](https://nextlabrome.wordpress.com)
