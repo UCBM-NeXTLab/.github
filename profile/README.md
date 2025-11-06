@@ -59,7 +59,7 @@ conda activate nextlab
 # Explore notebooks
 jupyter lab
 ```
-📬 Contact
+## 📬 Contact
 
 NeXT Lab – Neurophysiology & Neuroengineering of Human-Technology Interaction
 Università Campus Bio-Medico di Roma
@@ -77,7 +77,6 @@ Via Álvaro del Portillo 5, 00128 Roma, Italy
 Unless otherwise stated in individual repositories:
 
 Code is released under the MIT License
-.
 
 Data follow the terms described in each repository’s DATA_USE.md.
 
