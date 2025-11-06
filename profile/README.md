@@ -92,11 +92,7 @@ We encourage open collaboration!
 
 ---
 
-## 📈 Badges
-
-Here are some professional badges you can include:
-
-[![GitHub Org’s stars](https://img.shields.io/github/stars/NextLab-Rome?style=social)](https://github.com/NextLab-Rome)
+[![GitHub Org’s stars](https://img.shields.io/github/stars/NextLab-Rome?style=social)](https://github.com/UCBM-NeXTLab)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.13%2B-red)
